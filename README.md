@@ -116,19 +116,7 @@ Different dashboard implementations were intentionally built to demonstrate both
 
 ---
 
-## 📁 Repository Structure
-/data
-└── raw_stock_data.csv
-/sql
-└── schema.sql
-└── analytics_queries.sql
-/powerbi
-└── stock_dashboard.pbix
-/docs
-└── Database_Report.pdf
-README.md
 
----
 
 ## 👤 Author
 
