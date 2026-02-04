@@ -4,6 +4,8 @@ An end-to-end data analytics project that demonstrates database design, SQL anal
 
 This project was built from scratch, covering the full workflow from raw data modelling to an interactive Power BI dashboard.
 
+<img width="1323" height="761" alt="image" src="https://github.com/user-attachments/assets/a4493a56-40c4-4bf4-81cc-1309ac7e32e3" />
+
 ---
 
 ## 🔍 Project Overview
