@@ -1,1 +1,2 @@
 /webapp/** linguist-vendored
+*.pbix linguist-generated
