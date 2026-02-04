@@ -1,3 +1,5 @@
+-- Stock analytics SQL queries (returns, volatility, volume)
+
 USE cm3010_stock;
 
 -- =========================
